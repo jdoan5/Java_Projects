@@ -1,4 +1,5 @@
-// Display list of the month from Jan. to Dec.
+// An example of arraylist and the purpose is to storage multiple values in a single variable
+// For example: Display list of the month from Jan. to Dec.
 
 package months_dates;
 
