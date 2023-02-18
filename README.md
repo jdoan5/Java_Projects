@@ -1,4 +1,4 @@
-Jav Project
+** Java Project
 The purpose of this project 
 
 Description
