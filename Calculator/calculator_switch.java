@@ -57,10 +57,6 @@ public class calculator_switch {
             System.out.println(num1 + " ^ " + num2 + " = " + result);
             break;
 
-            case 'e' : result = Math.exp(num1);
-            System.out.println(num1);
-            
-
             // Display if the invalid operator enter 
             default: System.out.println("Invalid input");
             break;     
