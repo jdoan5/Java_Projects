@@ -2,7 +2,7 @@
 // John Doan
 // February 2023 
 
-package Calculator;
+package Calculator.Calculator_switch;
 import java.util.*;
 
 public class calculator_switch {
