@@ -11,7 +11,7 @@ public class calculator_switch {
         // User input 
         Scanner input = new Scanner(System.in);
         double result;
-        double num1, num2;
+        double num1, num2, num3;
         char opr;
 
         System.out.print("Enter first number: ");
@@ -24,6 +24,7 @@ public class calculator_switch {
         // The second input
         System.out.println("Enter second number: ");
         num2 = input.nextDouble();
+
 
         // Switch statement
         switch (opr) {
